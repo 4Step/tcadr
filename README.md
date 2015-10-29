@@ -10,8 +10,8 @@ Installation
 --------------
 The package is not (yet) on CRAN. The easiest way to install it is with
 
-    devtools::install_github("pbsag/tcadr")
-Current working version is v0.0.2.2
+    devtools::install_github("4Step/tcadr")
+Current working version @pbsag is v0.0.2.2
 
     devtools::install_github("pbsag/tcadr@v0.0.2.2")
     
